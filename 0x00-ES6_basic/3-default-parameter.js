@@ -1,4 +1,3 @@
-const getSumOfHoodsi = (initialNumber, expansion1989 = 89, expansion2019 = 19) => initialNumber + expansion1989 + expansion2019;
+const getSumOfHoodsi = (i, exp1989 = 89, exp2019 = 19) => i + exp1989 + exp2019;
 
 export default getSumOfHoodsi;
-
